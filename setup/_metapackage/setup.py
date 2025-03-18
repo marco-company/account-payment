@@ -19,6 +19,7 @@ setuptools.setup(
         'odoo-addon-account_payment_batch_process_discount>=16.0dev,<16.1dev',
         'odoo-addon-account_payment_credit_card>=16.0dev,<16.1dev',
         'odoo-addon-account_payment_line>=16.0dev,<16.1dev',
+        'odoo-addon-account_payment_line_import>=16.0dev,<16.1dev',
         'odoo-addon-account_payment_multi_deduction>=16.0dev,<16.1dev',
         'odoo-addon-account_payment_notification>=16.0dev,<16.1dev',
         'odoo-addon-account_payment_promissory_note>=16.0dev,<16.1dev',
